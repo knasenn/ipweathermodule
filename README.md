@@ -33,7 +33,7 @@ This is a Anax modulen and primarly intended to be used together with the Anax f
 License
 ------------------
 
-This software carries a MIT license. See [LICENSE.txt](LICENSE.txt) for details.
+This software carries a MIT license. See LICENSE.txt for details.
 
 
 
