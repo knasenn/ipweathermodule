@@ -1,4 +1,4 @@
-Anax WEATHER mod (remserver)
+Anax WEATHER mod (v1)
 ==================================
 
 
